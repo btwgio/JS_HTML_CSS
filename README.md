@@ -23,7 +23,8 @@
     <ol>
         <li>Caso deseje fazer um clone:</li>
     </ol>
-    <pre><code>git clone https://github.com/btwgio/relogio_cloudfront</code></pre>
+    <pre><code>git clone https://github.com/btwgio/relogio_cloudfront 
+    https://btwgio.github.io/relogio_cloudfront/</code></pre>
 
   <h2>Ferramentas</h2>
     <p>Conhecimentos básicos de HTML, JavaScript e CSS.</p>
